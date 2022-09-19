@@ -4,10 +4,10 @@
 **Ivaan04/Ivaan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<img align="right" width="400" height="400" src="https://64.media.tumblr.com/dd1158afca966cfedac990642113d99b/tumblr_o7a29vlVAx1ton0qpo1_500.gif">
+<img align="right" width="600" height="400" src="https://64.media.tumblr.com/dd1158afca966cfedac990642113d99b/tumblr_o7a29vlVAx1ton0qpo1_500.gif">
 
 
-# Hi, I'm Ivan Motolko <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+# Hi, I'm Ivan Motolko <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=60px">
 
 System and network administrator :robot:. (In progress)
 
