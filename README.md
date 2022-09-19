@@ -11,7 +11,7 @@
 
 System and network administrator :robot:. (In progress)
 
-## About me 
+<!-- ## About me 
 
 :heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
