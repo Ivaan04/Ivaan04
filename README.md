@@ -1,36 +1,24 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-
+### Hi there <img  width="50" src="https://media.tenor.com/images/e15dd81c7f6d3abbd2dfb904f8844e35/tenor.gif">
+<img align="right" width="500" height="400" src="https://64.media.tumblr.com/dd1158afca966cfedac990642113d99b/tumblr_o7a29vlVAx1ton0qpo1_500.gif">
 <!--
 **Ivaan04/Ivaan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+Hi, I'm Ivan Motolko <img  width="50" src="https://acortar.link/9tK1Gz">
 
-<img align="right" width="500" height="400" src="https://64.media.tumblr.com/dd1158afca966cfedac990642113d99b/tumblr_o7a29vlVAx1ton0qpo1_500.gif">
-
-
-Hi, I'm Ivan Motolko <img src="https://i.gifer.com/origin/a7/a7fa342b21f4edc8c4c5ba52872b1b80_w200.gif" width=60px">
 
 System and network administrator :robot:. (In progress)
 
-<!-- ## About me 
+### About me ⚡
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+#### Studies
 
-- :earth_americas: I'm from Medellin - Colombia
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+<p> 2018 - Microcomputer systems and networks . </p>
+<p> 2020 - Computer systems and network administrator . </p>
+<p> 2022 - Cybersecurity specialization course . (In progress) </p>
 
 
----
-⭐️ From [FatChicken277](https://github.com/FatChicken277)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://imotolko.com">
+    <img src="https://pa1.narvii.com/6539/688fb3fae2b62af1fd20c1481ac27e22b8f47326_hq.gif" >
+  </a>
+</p>
