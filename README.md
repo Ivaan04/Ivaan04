@@ -7,7 +7,7 @@ Hi, I'm Ivan Motolko.
 
 
 <p> System and network administrator :robot:. </p>
-<p> Specialization Course on Cybersecurity in IT Environments (In progress) </p>
+<p> Cybersecurity in Information Technology Environments Specialist (In progress) </p>
 
 ### About me ⚡
 
