@@ -22,8 +22,3 @@ System and network administrator :robot:. (In progress)
     <img src="https://pa1.narvii.com/6539/688fb3fae2b62af1fd20c1481ac27e22b8f47326_hq.gif" >
   </a>
 </p>
-
-</p>
-<a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo">
-    <img align="right" title="Visitas Perfil GitHub" src="https://vercel.com/ivaan04/contador-visitas-github/73SoYNjCdZhLhqiNMLAee5WuaX5v"/></a>
-</p>
