@@ -3,7 +3,7 @@
 <!--
 **Ivaan04/Ivaan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi, I'm Ivan Motolko <img  width="50" src="https://acortar.link/9ZhOrJ">
+Hi, I'm Ivan Motolko.
 
 
 System and network administrator :robot:. (In progress)
