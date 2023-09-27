@@ -15,7 +15,7 @@ Hi, I'm Ivan Motolko.
 
 <p> 2018 - Microcomputer systems and networks . </p>
 <p> 2020 - Computer systems and network administrator . </p>
-<p> 2022 - Cybersecurity specialization course . (In progress) </p>
+<p> 2023 - Cybersecurity specialization course . (In progress) </p>
 
 
 <p>
