@@ -3,6 +3,7 @@
 
 Hi, I'm Ivan Motolko.
 
+
 <p> System and network administrator :robot:. </p>
 <p> Cybersecurity in Information Technology Environments Specialist (In progress) </p>
 
@@ -13,6 +14,7 @@ Hi, I'm Ivan Motolko.
 <p> 2018 - Microcomputer systems and networks . </p>
 <p> 2020 - Computer systems and network administrator . </p>
 <p> 2023 - Cybersecurity specialization course . (In progress) </p>
+
 
 <p>
   <a href="https://imotolko.com">
